@@ -12,7 +12,7 @@ MODULE_AUTHOR("Peter Jay Salzman");
 
 static short int myshort = 1;
 static int myint = 420;
-static long int mylong = 99919;
+static long int mylong = 9999;
 static char *mystring = "blah";
 static int myintArray[2] = { -1, -1 };
 static int arr_argc = 0;
